@@ -40,7 +40,6 @@ Assumptions: An agent works for 6 days a week; On average, each agent takes 4 un
 
 ![image](https://github.com/Sharmila0807/ABC-Call-Volume-Trend-Analysis/assets/118246908/e0d18f6e-1564-4675-a1f7-50b0331121a3)
 
-Video explainatiom : https://www.canva.com/design/DAFgvY8fw30/3YhQ746M8qSdlzQv6B2ReA/view?utm_content=DAFgvY8fw30&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
-
+Video explainatiom :  https://drive.google.com/file/d/1f2T3HKLD7tcTlu_3EkD-1NKCN1p3ldw-/view?usp=sharing
 
 Dataset: https://docs.google.com/spreadsheets/d/1aE90aHBpkW0oO1qE-wqKVfa2pDGWovWq/edit#gid=1468500971
